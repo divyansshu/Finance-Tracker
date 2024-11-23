@@ -3,9 +3,9 @@ A finance tracker application built using Python's tkinter module. It allows the
 
 ## Features
 
-- Track income and expenses
-- Categorize transactions
-- Visualize financial data using charts
+- **Dark Mode and Theming**
+- **Track income and expenses**
+- **Visualize financial data using charts**
 
 ## Prerequisites
 
@@ -16,21 +16,22 @@ You have installed the following python modules:
 * `customtkinter`
 * `matplotlib`
 
-You can install these modules using pip:
+## Installation
+- To install and run the Finance Tracker Application, follow these steps:
 
-```
-pip install customtkinter matplotlib
-```
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/divyansshu/Finance-Tracker.git
 
-### How to run the script 
-
-1. Go to the directory. /Finance_Tracker
-
-2. Run this command on Terminal.
-
-```
-python3 main.py
-```
+2. **Navigate to the project directory:**
+   ```sh
+   cd Finance Tracker
+3. **Install the required dependencies:**
+   ```sh
+   pip install -r requirements.txt 
+4. **Run the application:**
+   ```sh
+   python main.py
 
 ### Flowchart of the code 🤹‍♀️
 
