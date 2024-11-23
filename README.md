@@ -35,4 +35,19 @@ python3 main.py
 ### Flowchart of the code 🤹‍♀️
 
 ![Finace_tracker drawio](https://github.com/otahina/python-mini-project/assets/108225969/5a5e379a-6aae-48cb-8a22-482c4051f844)
-  
+
+## Screenshots
+
+- **Layout of app**<br>  
+![Screenshot 2024-11-24 000105](https://github.com/user-attachments/assets/89339fba-5163-4c1e-a2e7-d9b9e45ca76c)
+
+- **Adding the income**<br><br>
+![Screenshot 2024-11-24 000255](https://github.com/user-attachments/assets/fe75215f-956b-4084-ae68-40e15bf484ff)
+
+- **Adding the Expenses**<br><br>
+![Screenshot 2024-11-24 000458](https://github.com/user-attachments/assets/062905d1-f77a-4d80-8d2e-81ebd553332c)
+
+- **Pie Chart showing the track of income and expenses**<br><br>
+![Screenshot 2024-11-24 000518](https://github.com/user-attachments/assets/04534ae0-0340-4722-8fc5-587659316ecf)
+
+
